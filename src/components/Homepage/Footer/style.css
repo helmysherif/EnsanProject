@@ -1,0 +1,171 @@
+.content10
+{
+    background: #333;
+    padding:70px 0 40px 0;
+}
+.content10 .container
+{
+    border-bottom:2px solid rgba(255,255,255,.3);
+}
+.content10 .container .row .col-lg-4 img
+{
+    width:180px;
+}
+.content10 .container .row .col-lg-4 p
+{
+    text-transform: capitalize;
+    font-size: 13px;
+    color:rgba(255,255,255,.5);
+    padding:15px 0;
+}
+.content10 .container .row .col-lg-4 .social
+{
+    text-align: center;
+    color:#333;
+}
+.content10 .container .row .col-lg-4 .social i
+{
+    background: #fff;
+    padding:13px;
+    border-radius: 50%;
+    margin-right: 25px;
+    font-size: 15px;
+}
+.content10 .container .row .col-lg-4 .social .fa-facebook
+{
+    padding:13px 16px;
+}
+.content10 .container .row .col-lg-4 .social .fa-google-plus
+{
+    padding:13px 11px;
+}
+.content10 .container .row .col-lg-4 .social .fa-skype
+{
+    padding:13px 15px;
+}
+.content10 .container .row .col-lg-2 
+{
+    position: relative;
+    left:20px;
+}
+.content10 .container .row .col-lg-2 h2
+{
+    color:#fff;
+    text-transform: capitalize;
+    font-weight: 800;
+    font-size: 25px;
+    padding-top:20px;
+    padding-bottom:45px;
+    font-family: "Roboto";
+}
+.content10 .container .row .col-lg-2 p
+{
+    color:rgba(255,255,255,.5);
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 20px;
+    margin:0;
+    padding:0;
+}
+.content10 .container .row .col-lg-2 .links4
+{
+    text-decoration: none;
+    color:rgba(255,255,255,.5);
+    display: block;
+    font-size: 20px;
+}
+.content10 .container .row .col
+{
+    position: relative;
+    left:40px;
+}
+.content10 .container .row .col-lg-4 h2
+{
+    padding-top:20px;
+    font-size: 25px;
+    font-weight: 800;
+    padding-bottom:45px;
+    text-transform: capitalize;
+    color:#fff;
+    font-family: "Roboto";
+}
+.content10 .container .row .col-lg-4 ul
+{
+    margin:0;
+    padding:0;
+    padding-top:5px;
+    padding-bottom:10px;
+}
+.content10 .container .row .col-lg-4 ul li
+{
+    color:rgba(255,255,255,.5);
+    list-style: none;
+    padding-bottom:14px;
+}
+.content10 .container .row .col-lg-4 ul li i
+{
+    font-size: 18px;
+    color:#578f42;
+    padding-right: 20px;
+    position: relative;
+}
+.content10 .container .row .col-lg-4 ul li span
+{
+    font-size: 13px;
+    text-transform: capitalize;
+}
+.content10 .container .row .col-lg-4 form input
+{
+    background: transparent;
+    border:2px solid rgba(255,255,255,.5);
+    border-radius: 25px;
+    height:50px;
+    padding-left: 20px;
+    position: relative;
+}
+.content10 .container .row .col-lg-4 form input::placeholder
+{
+    font-size: 16px;
+}
+.content10 .container .row .col-lg-4 form .btn
+{
+    position: absolute;
+    right: 15px;
+    top: 214px;
+    height: 50px;
+    background: #fff;
+    color:#000;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+    border:0;
+    width:100px;
+    font-size: 17px;
+    font-weight: 700;
+    font-family: "Roboto";
+    text-transform: capitalize;
+}
+.content10 .copyright 
+{
+    color:rgba(255,255,255,.5);
+    font-size: 15px;
+    text-transform: capitalize;
+    padding:30px 0;
+    width:1140px;
+    padding-right: 15px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.content10 .copyright p
+{
+    float: left;
+}
+.content10 .copyright .policy
+{
+    float: right;
+}
+.content10 .copyright .policy span
+{
+    text-transform: capitalize;
+    padding-right: 20px;
+}

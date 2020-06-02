@@ -1,0 +1,85 @@
+.volunteers
+{
+    padding:50px 0;
+}
+.volunteers .container .row .col-lg-12 h1
+{
+    color:#578F42;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 35px;
+    position: relative;
+}
+.volunteers .container .row .col-lg-12 .border2
+{
+    width:50px;
+    height:3px;
+    background:#578F42;
+    position: absolute;
+    display: block;
+    left:49%;
+    margin-top:20px;
+}
+.volunteers .container .row .col-lg-12 .row2
+{
+    padding-top:80px;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 img
+{
+    width:100%;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 .info
+{
+    background: #f1f1f1;
+    padding:10px;
+    text-align: center;
+    margin-top:10px;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 .info h4
+{
+    color:#000;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 17px;
+    padding-bottom:10PX;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 .info .social 
+{
+    margin-left: 10px;
+    margin-bottom:10px;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 .info .social i
+{
+    color:#fff;
+    padding:10px;
+    border-radius:50%;
+    font-size: 15px;
+    margin-right: 15px;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 .info .social .fa-facebook
+{
+    background: #3b5999;
+    padding:10px 14px;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 .info .social .fa-twitter
+{
+    background: #55acee;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 .info .social .fa-google-plus
+{
+    background: #dd4b39;
+    padding:10px 8px;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 .info .social .fa-instagram
+{
+    background: #e4405f;
+    padding:10px 12px;
+}
+.volunteers .container .row .col-lg-12 .row .col-lg-3 .info p
+{
+    text-transform: capitalize;
+    font-weight: 600;
+    color:#000;
+    font-size: 15px;
+}

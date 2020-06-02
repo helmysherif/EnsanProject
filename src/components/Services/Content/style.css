@@ -1,0 +1,78 @@
+.content13
+{
+    padding:70px 0;
+}
+.content13 h1
+{
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    position: relative;
+    color:#578F42;
+}
+.content13 .border3
+{
+    width:50px;
+    height:3px;
+    background: #578F42;
+    display: block;
+    position: absolute;
+    left:48%;
+    margin-top:20px;
+}
+.content13 .container h3
+{
+    text-decoration: underline;
+    font-weight: 700;
+    text-transform: capitalize;
+    font-size: 25px;
+}
+.content13 .container .row 
+{
+    margin-top:40px;
+    border-bottom:2px solid #578F42;
+    padding-bottom:50px;
+}
+.content13 .container .row .col-lg-4 .card6
+{
+    box-shadow: 1px 2px 20px rgba(0, 0, 0, .3);
+    padding:20px;
+    overflow: hidden;
+}
+.content13 .container .row .col-lg-4 img
+{
+    width:200px;
+    border:0;
+    display: block;
+    margin-left: 80px;
+    margin-bottom:20px;
+    height:250px;
+    transition: .3s;
+}
+.content13 .container .row .col-lg-4 .card6 img:hover
+{
+    transform: scale(1.1,1.1)
+}
+.content13 .container .row .col-lg-4 .img1
+{
+    margin-left: 50px;
+}
+.content13 .container .row .col-lg-4 .img2
+{
+    margin-left: 50px;
+}
+.content13 .container .row .col-lg-4 .info
+{
+    background: #f2f2f2;
+    padding:15px;
+    text-align: center;
+}
+.content13 .container .row .col-lg-4 a
+{
+    text-transform: capitalize;
+    text-decoration: none;
+    color:#000;
+    font-size: 20px;
+    font-weight: 700;
+}

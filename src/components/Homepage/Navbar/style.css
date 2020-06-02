@@ -1,0 +1,150 @@
+.content
+{
+    margin-left: 100px;
+}
+.cont
+{
+    position: absolute;
+    top:0;
+    width:100%;
+    background: #f7f7f7;
+    line-height: 4;
+    padding:0;
+}
+.cont .row .col-lg-6 ul
+{
+    margin:0;
+    padding:0;
+}
+.cont .row .col-lg-6 ul li
+{
+    list-style: none;
+    float: left;
+    font-size: 15px;
+    margin-right: 20px;
+    color:#666;
+}
+.cont .row .col-lg-6 ul .li
+{
+    margin-top:2px;
+}
+.cont .row .col-lg-6 ul li span
+{
+    margin-left: 5px;
+}
+.cont .row .col-lg-6 .icons
+{
+    float: right;
+}
+.cont .row .col-lg-6 .icons a
+{
+    text-decoration: none;
+    color:#666;
+    padding-right: 20px;
+    font-size: 15px;
+}
+.cont2
+{
+    position: absolute;
+    top:9%;
+    width:100%;
+    background: #fff;
+    padding:20px 0;
+}
+.cont2 .row .col-lg-3 img
+{
+    width: 180px;
+    text-align: center;
+    margin-left:35px;
+    margin-top: -13px;
+    margin-bottom: -20px;
+}
+.cont2 .row .col-lg-9 .navbar
+{
+    background: transparent;
+    margin:0;
+}
+.cont2 .row .col-lg-9 .navbar .nav-item .nav-link
+{
+    font-size: 15px;
+    color:#666;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-right: 30px;
+    transition: .4s;
+}
+.cont2 .row .col-lg-9 .navbar .nav-item .nav-link:hover
+{
+    color:#578F42;
+}
+.cont2 .row .col-lg-9 .navbar .nav-item.active .nav-link
+{
+    color:#578F42;
+}
+.cont2 .row .col-lg-9 .navbar form .btn
+{
+    background: #578F42;
+    border-radius: 0;
+    text-transform: capitalize;
+    color:#fff;
+    font-weight: bold;
+    font-size: 16px;
+    border:0;
+    padding:10px 20px;
+    outline: 0;
+}
+.cont3
+{
+    position: absolute;
+    top:50%;
+    width:100%;
+}
+.cont3 .row .col-lg-12 .text
+{
+    width:60%;
+    text-align: left;
+    margin-top:75px;
+}
+.cont3 .row .col-lg-12 .text h2
+{
+    text-transform: capitalize;
+    color:#fff;
+    font-weight: 800;
+    font-size: 40px;
+}
+.cont3 .row .col-lg-12 .text p
+{
+    color:#fff;
+    font-size: 21px;
+    margin-top:20px;
+    text-transform: capitalize;
+    text-align: left;
+    margin-left: 0;
+}
+.cont3 .row .col-lg-12 .text .buttons
+{
+    margin-top:50px;
+}
+.cont3 .row .col-lg-12 .text .buttons .botton1
+{
+    margin-right: 50px;
+    font-size: 16px;
+    text-transform: capitalize;
+    border:0;
+    border-radius: 0;
+    background: #578f42;
+    font-weight: bold;
+    padding:15px 30px;
+}
+.cont3 .row .col-lg-12 .text .buttons .botton2
+{
+    margin-right: 50px;
+    font-size: 16px;
+    text-transform: capitalize;
+    border:0;
+    border-radius: 0;
+    background: transparent;
+    font-weight: bold;
+    padding:13px 26px;
+    border:2px solid #ccc;
+}

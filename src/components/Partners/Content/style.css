@@ -1,0 +1,115 @@
+.partners
+{
+    padding:40px 0;
+}
+.partners .container .row .col-lg-12 h1
+{
+    text-transform: capitalize;
+    text-align: center;
+    font-weight: 700;
+    font-size: 35px;
+    color:#578F42;
+    position: relative;
+}
+.partners .container .row .col-lg-12 .border3
+{
+    width:50px;
+    height:3px;
+    background: #578F42;
+    display: block;
+    position: absolute;
+    left:48%;
+    margin-top:20px;
+}
+.partners .container .row .col-lg-12 .row1
+{
+    margin-top:100px;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3
+{
+    margin-top:40px;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .partner
+{
+    position: relative;
+    overflow: hidden;
+    transition: .4s;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 img
+{
+    width:100%;
+    transition: .4s;   
+}
+
+.partners .container .row .col-lg-12 .row .col-lg-3 .info
+{
+    background: #f1f1f1;
+    padding: 10px 25px;
+    transition: .5s;
+    color:#000;
+    text-align: center;
+    padding-top:15px;
+    overflow: hidden;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .info h4
+{
+    text-transform: capitalize;
+    font-weight: 700;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 
+{
+    overflow: hidden;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .info p
+{
+    font-size: 14px;
+    text-transform: capitalize;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .social
+{
+    position: absolute;
+    bottom:100%;
+    opacity: 0;
+    width:89.5%;
+    height:76.8%;
+    background: rgba(88,142,68,.5);
+    text-align: center;
+    padding-top:120px;
+    transition: .4s;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3:hover .social
+{
+    opacity:1;
+    bottom:79px;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .social a
+{
+    text-decoration: none;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .social i
+{
+    color:#fff;
+    padding:10px;
+    border-radius:50%;
+    font-size: 15px;
+    margin-right: 15px;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .social .fa-facebook
+{
+    background: #3b5999;
+    padding:10px 14px;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .social .fa-twitter
+{
+    background: #55acee;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .social .fa-google-plus
+{
+    background: #dd4b39;
+    padding:10px 8px;
+}
+.partners .container .row .col-lg-12 .row .col-lg-3 .social .fa-instagram
+{
+    background: #e4405f;
+    padding:10px 12px;
+}

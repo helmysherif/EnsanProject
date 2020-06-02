@@ -1,0 +1,29 @@
+.cont10
+{
+    padding:70px 0;
+}
+.cont10 .row .col-lg-12 .partners
+{
+    text-align: center;
+}
+.cont10 .row .col-lg-12 .partners h2
+{
+    text-transform: capitalize;
+    font-size: 35px;
+    font-weight: 700;
+    color:#000;
+}
+.cont10 .row .col-lg-12 .partners p
+{
+    text-transform: capitalize;
+    color:#000;
+    font-size: 17px;
+    font-weight: 600;
+    padding-top:15px;
+}
+.cont10 .row .col-lg-12 .logos
+{
+    float: left;
+    text-align: center;
+    margin:50px 0 0 100px;
+}

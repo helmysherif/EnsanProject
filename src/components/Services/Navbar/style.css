@@ -1,0 +1,92 @@
+.content11
+{
+    background: #f7f7f7;
+}
+.cont11
+{
+    line-height: 4;
+    padding:0;
+}
+.cont11 .row .col-lg-6 ul
+{
+    margin:0;
+    padding:0;
+}
+.cont11 .row .col-lg-6 ul li
+{
+    list-style: none;
+    float: left;
+    font-size: 15px;
+    margin-right: 20px;
+    color:#666;
+}
+.cont11 .row .col-lg-6 ul .li
+{
+    margin-top:2px;
+}
+.cont11 .row .col-lg-6 ul li span
+{
+    margin-left: 5px;
+}
+.cont11 .row .col-lg-6 .icons
+{
+    float: right;
+}
+.cont11 .row .col-lg-6 .icons a
+{
+    text-decoration: none;
+    color:#666;
+    padding-right: 20px;
+    font-size: 15px;
+}
+.content12
+{
+    background: #f3f3f3;
+}
+.cont12
+{
+    width:100%;
+    padding:20px 0;
+}
+.cont12 .row .col-lg-3 img
+{
+    width: 180px;
+    text-align: center;
+    margin-left:35px;
+    margin-top: -13px;
+    margin-bottom: -20px;
+}
+.cont12 .row .col-lg-9 .navbar
+{
+    background: transparent;
+    margin:0;
+}
+.cont12 .row .col-lg-9 .navbar .nav-item .nav-link
+{
+    font-size: 15px;
+    color:#666;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-right: 30px;
+    transition: .4s;
+}
+.cont12 .row .col-lg-9 .navbar .nav-item .nav-link:hover
+{
+    color:#578F42;
+}
+.cont12 .row .col-lg-9 .navbar .nav-item.active .nav-link
+{
+    color:#578F42;
+}
+.cont12 .row .col-lg-9 .navbar form .btn
+{
+    background: #578F42;
+    border-radius: 0;
+    text-transform: capitalize;
+    color:#fff;
+    font-weight: bold;
+    font-size: 16px;
+    border:0;
+    padding:10px 20px;
+    outline: 0;
+}
